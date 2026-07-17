@@ -1,6 +1,6 @@
 # SteelCalc
 
-🚀 An open-source steel weight and quotation calculator for engineers, contractors, fabricators, and procurement professionals.
+An open-source steel weight and quotation calculator for engineers, contractors, fabricators, and procurement professionals.
 
 ## Features
 
